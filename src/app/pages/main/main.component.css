@@ -1,0 +1,13 @@
+thead{
+color: #337ab7;
+
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(58, 57, 42);
+    color: white;
+    text-align: center;
+ }
